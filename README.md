@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/caio-rodrigues-b804a0262/">
+  <a href="https://www.linkedin.com/in/caio-rodrigues-b804a0262/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   </a>
 </div>
