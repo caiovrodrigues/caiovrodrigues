@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Um estagiário tentando resolver problemas<br>- Estudante de Java, Spring e Angular</p>
+<p align="left">- Estudante de Java, Spring Boot/Spring e Angular</p>
 
 ###
 
