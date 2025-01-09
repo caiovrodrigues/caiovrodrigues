@@ -1,8 +1,8 @@
-<h2 align="left">👋Hi there, welcome to my Github profile</h2>
+<h2 align="left">👋 Olá, seja bem vindo</h2>
 
 ###
 
-<p align="left">- Estudante de Java, Spring Boot/Spring e Angular</p>
+<p align="left">Desenvolvedor Web Full Stack - Construindo soluções com Java, Spring Boot/Spring e Angular</p>
 
 ###
 
@@ -18,11 +18,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
 </div>
 
 ###
