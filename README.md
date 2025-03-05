@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Web Full Stack - Construindo soluções com Java, Spring Boot/Spring e Angular</p>
+<p align="left">Desenvolvedor Full Stack - Construindo soluções com Java, Spring Boot/Spring e Angular<br>Aprendendo sobre a cultura DevOps</p>
 
 ###
 
@@ -22,7 +22,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
 </div>
 
 ###
@@ -32,9 +38,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/caio-rodrigues-b804a0262/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
 ###
