@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack - Construindo soluções com Java, Spring Boot/Spring e Angular<br>Aprendendo sobre a cultura DevOps</p>
+<p align="left">Desenvolvedor de software - Construindo soluções com Java, Spring Boot/Spring e Angular<br>Aprendendo sobre a cultura DevOps</p>
 
 ###
 
